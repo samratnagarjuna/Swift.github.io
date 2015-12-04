@@ -1,0 +1,18 @@
+body {
+    background-color: #000000;
+    background-image: url('../assets/sprites/background -title1.png');
+}
+
+#play {
+    margin: auto;
+    position: absolute;
+    top:540px ;
+    right: 800px;
+    width: 331px;
+    height: 331px;
+    background-image: url('../assets/sprites/StartButton.png');
+}
+
+#play:hover {
+    background-image: url('../assets/sprites/StartButtonActive.png');
+}
